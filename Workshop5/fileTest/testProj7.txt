@@ -1,0 +1,10 @@
+After completing this chapter, you will be able to
+Explain why functions are useful in structuring code in a
+program
+Employ top-down design to assign tasks to functions
+Define a recursive function
+Explain the use of the namespace in a program and exploit
+it effectively
+Define a function with required and optional parameters
+Use higher-order functions for mapping, filtering, and
+reducing
